@@ -1,3 +1,10 @@
+/*
+Task 4: 
+Write a Program using Nested if-else structure. The program will get a Single Character
+from  user and Tell either it is Vowel or Not and it a capital or small letter?
+*/
+
+    
 #include <iostream>
 #include <cctype>
 
